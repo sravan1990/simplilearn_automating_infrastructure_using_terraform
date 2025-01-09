@@ -1,0 +1,2 @@
+# simplilearn_automating_infrastructure_using_terraform
+AUTOMATING INFRASTRUCTURE USING TERRAFORM
